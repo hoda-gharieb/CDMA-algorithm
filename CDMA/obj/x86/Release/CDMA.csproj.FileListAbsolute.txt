@@ -1,0 +1,3 @@
+C:\Users\Hoda\AppData\Local\Temporary Projects\CDMA\obj\x86\Release\CDMA.Form1.resources
+C:\Users\Hoda\AppData\Local\Temporary Projects\CDMA\obj\x86\Release\CDMA.Properties.Resources.resources
+C:\Users\Hoda\AppData\Local\Temporary Projects\CDMA\obj\x86\Release\CDMA.csproj.GenerateResource.Cache
